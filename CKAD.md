@@ -3,7 +3,7 @@ CKAD:
 Exam objectives:
 https://github.com/cncf/curriculum/blob/master/CKAD_Curriculum_v1.22.pdf
 
-1. Container best practices?
+1. Container best practices
 https://docs.docker.com/develop/dev-best-practices/
 https://cloud.google.com/architecture/best-practices-for-building-containers
 
