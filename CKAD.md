@@ -15,7 +15,6 @@ https://docs.docker.com/engine/reference/commandline/image_build/
 
 4. What is a job?
 https://kubernetes.io/docs/concepts/workloads/controllers/job/
-
 https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/
 
 5. Multi container Patterns.
